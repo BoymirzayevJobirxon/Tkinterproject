@@ -8,6 +8,5 @@ root.resizable(True,False)
 root.maxsize(640,740)
 root.minsize(200,250)
 root.config(bg='orange')
-BUT
 
 root.mainloop()
